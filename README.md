@@ -11,3 +11,5 @@ Application features:
 - gain select;
 - sampling frequency selection in the following range: 1Hz - 100MHz;
 - data save in wav file or other format, number of bits used for signal aquisition is also chose by user
+
+For more details, you can contact me, but the documentation I created for this project is in Romanian. 
