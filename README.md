@@ -1,5 +1,7 @@
 # GNURadio-Spectrum-Analyzer
 
+This application was part of my dissertation thesis and it uses the RTL-SDR device, a cheap, popular and versatile SDR device.
+
 Application features: 
 
 - received spectrum display in real time using the RTL-SDR device;
