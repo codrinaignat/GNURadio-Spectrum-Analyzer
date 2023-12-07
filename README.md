@@ -19,4 +19,6 @@ Some other useful links:
 - https://wiki.gnuradio.org/index.php/Tutorials
 - https://en.wikipedia.org/wiki/Spectrum_analyzer
 
-For more details, you can contact me, but the documentation I created for this project is in Romanian. 
+Full documentation of the project in Romanian:  
+
+https://electronicaplicata.wordpress.com/2023/12/03/software-defined-radio-sdr-pentru-incepatori-aplicatii-si-explicatii/
