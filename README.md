@@ -1,6 +1,6 @@
 # GNURadio-Spectrum-Analyzer
 
-GNU Radio application features: 
+Application features: 
 
 - received spectrum display in real time using the RTL-SDR device;
 - real time spectrogram;
